@@ -1,6 +1,6 @@
 # bitcoin-testnet-box docker image
 
-FROM ubuntu
+FROM ubuntu:24.10
 LABEL maintainer="Sean Lavine <lavis88@gmail.com>"
 
 # install make
